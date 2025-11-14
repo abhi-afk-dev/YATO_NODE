@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+.robotocondensed-text{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.rubik-text {
+  font-family: "Rubik Glitch Pop", system-ui;
+}
