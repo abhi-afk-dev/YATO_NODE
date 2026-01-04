@@ -1,10 +1,10 @@
-# Yato React ☁️⚡
+# Yato Node ☁️⚡
 
-A powerful, cloud-based online code editor built to run Node.js frameworks directly in the browser. Yato React provides a VS Code-like experience for building React, Angular, and Vue.js applications without any local setup.
+A powerful, cloud-based online code editor built to run Node.js frameworks directly in the browser. Yato Node provides a VS Code-like experience for building React, Angular, and Vue.js applications without any local setup.
 
 ## 🚀 Overview
 
-Yato React removes the friction of setting up local development environments. It offers a fully functional web-based IDE where users can create projects, write code with intelligent syntax highlighting, and see their changes instantly in a live preview window.
+Yato Node removes the friction of setting up local development environments. It offers a fully functional web-based IDE where users can create projects, write code with intelligent syntax highlighting, and see their changes instantly in a live preview window.
 
 ## ✨ Key Features
 
@@ -23,7 +23,7 @@ Yato React removes the friction of setting up local development environments. It
 
 ## 📸 Interface
 
-![Yato React Interface](./1.png)
+![Yato Node Interface](./1.png)
 *(The main editor interface featuring the file explorer, code editor, and live preview)*
 
 ## 📦 Getting Started
@@ -32,7 +32,7 @@ To run the frontend of the editor locally:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/abhi-afk-dev/yato_react.git](https://github.com/abhi-afk-dev/yato_react.git)
+    git clone [https://github.com/abhi-afk-dev/yato_node.git](https://github.com/abhi-afk-dev/yato_node.git)
     ```
 
 2.  **Navigate to the project directory**
